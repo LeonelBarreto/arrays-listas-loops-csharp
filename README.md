@@ -15,3 +15,5 @@
 13. Verificando disjuntores
 14. Imprima os menores ou maiores números
 15. Separando pares de ímpares
+
+**Respostas:** https://github.com/LeonelBarreto/arrays-and-loops-csharp
